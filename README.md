@@ -1,2 +1,3 @@
-# rapid-code-reviewer-538o
-Automated issue comment bot repository
+# Rapid Code Reviewer 538O
+
+Automated issue comment bot repository.
